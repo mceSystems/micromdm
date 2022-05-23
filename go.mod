@@ -15,7 +15,7 @@ require (
 	github.com/korylprince/go-macos-pkg v1.3.5
 	github.com/lib/pq v1.0.0
 	github.com/micromdm/go4 v0.0.0-20210104222236-8a0936d9e451
-	github.com/micromdm/scep/v2 v2.1.0
+	github.com/micromdm/scep/v2 v2.1.1-0.20220507204438-dc4948a25636
 	github.com/pkg/errors v0.8.0
 	github.com/pressly/goose v2.3.0+incompatible
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
